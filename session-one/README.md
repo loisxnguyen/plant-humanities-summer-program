@@ -14,4 +14,4 @@ ___bold and italic___
 
 >this is a block quote
 
-[this is a hyperlink](https://github.com/loisxnguyen/plant-humanities-summer-program/tree/main/session-one)
+*[this is a hyperlink](https://github.com/loisxnguyen/plant-humanities-summer-program/tree/main/session-one)*
