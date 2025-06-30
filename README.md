@@ -7,3 +7,5 @@ The **common sunflower** (_Helianthus annuus_) is a species of large annual forb
 <param ve-image src="wc:Sunflower_sky_backdrop.jpg">
 
 [^1]: Wikipedia contributors. (2025, June 24). Common sunflower. In Wikipedia, The Free Encyclopedia. Retrieved 21:57, June 24, 2025, from [https://en.wikipedia.org/w/index.php?title=Common_sunflower](https://en.wikipedia.org/w/index.php?title=Common_sunflower&oldid=1297100912)
+
+edit
