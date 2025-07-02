@@ -8,10 +8,37 @@ height=100
 author="Lois Nguyen, Emily Hughes, Moira Newman"
 layout="vertical">
 
+###Introduction
+
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-image
-	   src="gh:username/repository/main/folder/imagefilename.jpegloisxnguyen/plant-humanities-summer-program/main/session-two/rubiaperegrinagrowth.jpg
-		caption="*Rubia peregrina*">
+	   src="gh:loisxnguyen/plant-humanities-summer-program/main/session-two/rubiatinctorumKöhlerMedizinalPflanzen.jpg"
+		caption="Rubia tinctorum botanical illustration ">
+		
+###Image comparison paragraph
+		
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
+<param ve-compare
+               src="gh:loisxnguyen/plant-humanities-summer-program/main/session-two/rubiaperegrinagrowth.jpg"
+               caption="*Rubia peregrina and Rubia tinctorum*">
+<param ve-compare
+               src="gh:loisxnguyen/plant-humanities-summer-program/main/session-two/rubiatinctorumgrowth.jpg">
+
+###Video paragraph
+
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
+<param ve-video
+               src="https://www.youtube.com/watch?v=6R6pm74YXz8"
+               start="9"
+               end="35">
+
+###Iframe paragraph
+
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
+<param ve-iframe
+               src="https://archive.org/details/clevelandart-1919.21-ornament-with-symbol">
 
