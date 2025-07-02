@@ -37,8 +37,10 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 ###Iframe paragraph
 
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.[^1]
 
 <param ve-iframe
                src="https://archive.org/details/clevelandart-1919.21-ornament-with-symbol">
 
+
+[^1]: the image to the right shows a fragment of fabric dyed with indigo and madder
